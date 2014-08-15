@@ -7,7 +7,6 @@
 role :app, %w{luis@gobang.com.br}
 
 
-
 # Extended Server Syntax
 # ======================
 # This can be used to drop a more detailed server definition into the
