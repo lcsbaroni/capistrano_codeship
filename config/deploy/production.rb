@@ -6,12 +6,6 @@
 
 role :app, %w{luis@gobang.com.br}
 
-set :ssh_options, {
-   # keys: %w(/home/rlisowski/.ssh/id_rsa),
-   forward_agent: false,
-   auth_methods: %w(password)
- }
-
 # Extended Server Syntax
 # ======================
 # This can be used to drop a more detailed server definition into the
